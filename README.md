@@ -31,8 +31,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+[<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+](https://github.com/Rahul-9307/Rahul-9307/commit/d6a1b9afdb37dc60a3bcec735e6a6cc898604bc1)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-9307&show_icons=true&locale=en" alt="rahul-9307" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-9307&" alt="rahul-9307" /></p>
