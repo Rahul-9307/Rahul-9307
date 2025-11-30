@@ -1,4 +1,4 @@
-![logo (https://github.com/Rahul-9307/Rahul-9307/commit/2245f463f21adc21a667c807b8a4a285fb8674f8)
+![logo ((https://github.com/Rahul-9307/Rahul-9307/blob/main/rahulpatilbg.png?raw=true))
 
 <h1 align="center">Hi 👋, I'm Rahul Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
