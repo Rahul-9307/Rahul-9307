@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-9307&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-9307" /> </p>
 
-- 🌱 I’m currently learning **BE Computer Science, 3rd year**
+- 🌱 I’m currently learning **BE Computer Science, Final year**
 
 - 👯 I’m looking to collaborate on [AI-Powered Code Reviewer](https://github.com/Rahul-9307/AI-Powered-Code-Reviewer.git)
 
